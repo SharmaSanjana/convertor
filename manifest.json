@@ -5,7 +5,7 @@
 	"version" :"0.0.1",
 	"description" :"Currency Converter ...",
 	"author": "Sanjana Sharma",
-	"homepage_url": "https://github.com/SharmaSanjana/currencyconvertor.git",
+	"homepage_url": "https://github.com/SharmaSanjana/convertor.git",
 	"minimum_chrome_version": "42",
 	"browser_action" : {
 		"default_icon": "img/cash-converter.png",
